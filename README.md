@@ -15,6 +15,13 @@ This project aims to fine-tune the Flan-T5-Small model for medical question answ
 T5 (Text-to-Text Transfer Transformer) is an encoder-decoder model developed by Google.
 
 
+## Training Steps
+Step 1: Based on flan-t5-small model, trained with MedQuad-MedicalQnADataset dataset. See details in flan-t5.ipynb.<br /><br />
+Step 2: Based on the fine-tuned model in step 1, trained with MedQuad-MedicalQnADataset dataset but adjusted some training arguments. See details in third-flan-t5.ipynb.<br/><br />
+Step 3: Based on the fine-tuned model in step 2, trained with ChatDoctor-HealthCareMagic-100k dataset. See details in dataset2-flan-t5.ipynb
+
+
+
 ## Setup
 
 1. **Clone the Repository**
