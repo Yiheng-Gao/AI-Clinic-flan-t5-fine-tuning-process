@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project aims to fine-tune the Flan-T5-Small model for medical question answering using two datasets: the MedQuad-MedicalQnADataset and the ChatDoctor-HealthCareMagic-100k. The fine-tuned model is then integrated into the AI Clinic project to provide intelligent responses to medical queries.
+This project aims to fine-tune the Flan-T5-Small model for medical question answering using two datasets: the MedQuad-MedicalQnADataset and the ChatDoctor-HealthCareMagic-100k. The fine-tuned model is then integrated into the [AI Clinic](https://github.com/Yiheng-Gao/AI-Clinic) project to provide intelligent responses to medical queries.
 
 ## Datasets
 
