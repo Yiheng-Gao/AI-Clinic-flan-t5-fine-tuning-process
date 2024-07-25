@@ -12,6 +12,7 @@ This project aims to fine-tune the Flan-T5-Small model for medical question answ
 ## Model
 
 [Flan-T5-Small](https://huggingface.co/google/flan-t5-small) - A variant of the T5 model designed for better performance on NLP tasks.
+T5 (Text-to-Text Transfer Transformer) is an encoder-decoder model developed by Google.
 
 
 ## Setup
